@@ -1,3 +1,7 @@
+This project contains a lot of attention mechanisms that can be easily embedded in CNN models. 
+It also includes examples of popular CNN models for computer vision tasks.
+
+
 # Awesome-Attention-Mechanism-in-cv [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](doc/att.jpg)
 
@@ -249,8 +253,4 @@ An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR
 
 ## Contributing
 
-If you know of any awesome attention mechanism in computer vision resources, please add them in the PRs or issues.
-
-Additional article papers and corresponding code links are welcome in the issue.
-
-Thanks to [@dedekinds](https://github.com/dedekinds) for pointing out the problem in the DIANet description.
+Thanks to Peijie (Peyton) Dong for his compilation and work, which have made significant contributions to the development of the field of computer vision and the advancement of AI.
